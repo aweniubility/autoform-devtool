@@ -13,7 +13,7 @@
   "author": "charlielau",
   "license": "ISC",
   "devDependencies": {
-    "buble": "^0.16.0",
+    "buble": "^0.20.0",
     "buble-loader": "^0.4.0",
     "chromedriver": "^2.25.1",
     "cross-env": "^5.0.5",
